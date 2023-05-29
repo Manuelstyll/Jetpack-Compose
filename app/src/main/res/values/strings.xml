@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ManuelAndroidProject</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_text">Text</string>
+    <string name="title_activity_assign">assign</string>
+    <string name="title_activity_textfield">TextfieldActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_assign2">AssignActivity2</string>
+    <string name="title_activity_assign3">assignActivity3</string>
+</resources>
